@@ -107,8 +107,8 @@
 
 首先生成一些测试用的用户和他们的blog::
 
-from flask import render_template
-from app import app
+    from flask import render_template
+    from app import app
 
     @app.route('/')
     @app.route('/index')
