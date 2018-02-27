@@ -19,11 +19,11 @@ The-Flask-Mega-Tutorial教程与学习笔记
 
 .. toctree::
    :maxdepth: 2
-   :caption: 目录: 
 
-   Chapter 1
-   Chapter 2
-   Chapter 3
+   Chapter1
+   Chapter2
+   Chapter3
+   Chapter4
 
 
 Indices and tables
